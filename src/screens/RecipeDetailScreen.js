@@ -1,3 +1,4 @@
+recipedetail
 import {View,Text,ScrollView,TouchableOpacity,Image,StyleSheet,} from "react-native";
 import React from "react";
 import {
